@@ -1,0 +1,58 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color:#50514F;
+  }
+
+  .footer {
+
+    height:60px; 
+    width: 100%; 
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    left: 0pt;
+    vertical-align: center;
+
+}   
+
+  .content {
+    padding-top: 60px;
+    padding-bottom: 70px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: rgb(89, 90, 87) ;
+ 
+  }
+
+h3 {
+    margin-top: 2%;
+    margin-left: 2%;
+    font: white;
+  }
+
+  .progress {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+  }
+
+  .contact-form {
+    padding: 10px;
+    background-color:#50514F;
+
+  }
+
+  .center-form {
+    margin: 0 auto;
+  }
+
+  .footer-center {
+    height: 100%;
+    align-content: center;
+  }
+
+  a, a:hover, a:active, a:visited { color: white; cursor: pointer; }

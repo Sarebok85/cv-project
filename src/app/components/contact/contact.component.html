@@ -1,0 +1,46 @@
+<div class="content">
+<form class="contact-form">
+
+        <div class="form-row align-items-center">
+            <div class="col-md-8 center-form">
+                <label class="sr-only" for="inlineFormInputGroup">Email</label>
+                    <div class="input-group mb-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text"><fa [name]="'envelope'"></fa></div>
+                            </div>
+                        <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="{{'mail' | translate}}">
+                    </div>
+            </div>
+        </div>
+
+        <div class="form-row align-items-center">
+          <div class="col-md-8 center-form">
+            <label class="sr-only" for="inlineFormInputGroup">Asunto</label>
+            <div class="input-group mb-2">
+              <div class="input-group-prepend">
+                <div class="input-group-text"><fa [name]="'quote-right'"></fa></div>
+              </div>
+              <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="{{'subject' | translate}}">
+            </div>
+          </div>
+        </div>
+
+          <div class="form-row align-items-center">
+                <div class="col-md-8 center-form">
+                  <label class="sr-only" for="inlineFormInputGroup">Cuerpo</label>
+                  <div class="input-group mb-2">
+                    <div class="input-group-prepend">
+                      <div class="input-group-text"><fa [name]="'font'"></fa></div>
+                    </div>
+                    <textarea class="span6 form-control" rows="6" placeholder="{{'body' | translate}}" id="inlineFormInputGroup"  required></textarea>
+                  </div>
+                </div>
+            </div>
+            <div class="form-row align-items-center">
+          <div class="col-auto center-form">
+            <button type="submit" class="btn btn-secondary mb-2">{{'send' | translate}}</button>
+          </div>
+        </div>
+
+      </form>
+</div>

@@ -1,0 +1,13 @@
+{
+    "home":"Home",
+    "skills": "Skills",
+    "contact": "Contact",
+    "about": "About",
+    "es": "Spanish",
+    "en": "English",
+    "mail":"Email",
+    "subject":"Subject",
+    "body":"Body",
+    "send":"Send",
+    "other":"Other"
+}
