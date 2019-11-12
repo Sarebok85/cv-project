@@ -9,5 +9,21 @@
     "subject":"Subject",
     "body":"Body",
     "send":"Send",
-    "other":"Other"
+    "other":"Other",
+
+    "home.hello": "Hello World",
+    "home.p1":"Hola, si has llegado a esta web es por que tienes algún interés en conocerme, así que voy a intentar contarte quién soy y que habilidades poseo en el mundo tecnológico. Si tu idioma es distinto al español, no olvides que en la parte superior tienes para poder cambiar de idioma. Además de eso, si todabía no te he aburrido te contaré un poco de mi vida y mi carrera profesional.",
+    "home.p2":"Nací en el 1985 en Murcia un caluroso día de Agosto, desde bien pequeño me interesó esto de la tecnología pues mi abuelo era científico y analizaba suelos y terrenos para poder llegar a tener una zona de cultivo óptima y productiva. En su centro de trabajo tenía lo que yo veía como unas 'máquinas' gigantes en las que escribía e imprimía todo el día. Luego entendí que eran programas Basic los cuales le realizaban los cálculos necesarios para analizar dicho suelo.",
+    "home.p3":"Cuando finalizaba su jornada siempre tenía unos minutos para sentarme en sus rodillas e insertar un disco en su 386 para dejarme un par de horas jugando a juegos que las nuevas generaciones no creerían de gráficos pixelados y músicas poco definidas. Y ahí empezó mi idilio continuo con el mundo tecnológico. Luego llegó el primer ordenador a mi casa, el cual rompí varias veces y las videoconsolas a las que sigo jugando horas y horas para liberar el estres de la semana.",
+    "home.p4":"Pero realmente me enamoré de este oficio en el instituto, cuando un profesor, por 3º de la ESO nos hizo programar en QBasic. Yo lo instalé además en casa y hacía mis propios ejercicios, ¡estaba programando! Y no paraba, era una ilusión constante, la cual mantengo ahora y espero que no se vaya nunca.",
+
+    "skills.front":"Enamorado completamente de la programación web he trabajado en varios proyectos con diversas tecnologías. Inicié mi experiencia profesional en este ámbito maquetando webs con Bootstrap y crecí al lado de Javascript, ví como me facilitaba la programación JQuery y abracé y mimé distintos frameworks como Angular o React.",
+    "skills.back":"Mi primer contacto con la parte Back fue en un entorno Microsoft en el cual, por arquitectura estaba totalmente ligado al front. Años más tarde emprendimos un ambicioso que acabó exitosamente donde aislamos dicho Back a un entorno .Net Core + EF. Tras dicha etapa mi camino profesional dió un giro y me enfrente con ilusión y muchas ganas a un entorno Java + Spring Framework + JPA, llegando a desarrollarme plenamente en dichas tecnologías.",
+    "skills.others":"En cuanto a gestión de equipos he llegado a formarme progresivamente hasta llevar un equipo de 8/10 en la actualidad, aplicando correctamente todas las metodologías que cliente ha implantado. Mi virtud es hacer equipo y enfrentar las adversidades con una sonrisa y buena predisposición.",
+
+    "about.p1":"En esta sección me gustaría que me conocieras mejor, que consiguieras compartir mis inquietudes y miedos y que te ilusionaras con mis proyectos de futuro, a ver si soy capaz. ¡Allá vamos!",
+    "about.p2":"Me defino como un ilusionado de la vida y de mi trabajo. La tecnología para mi es todo en la vida y no me vería actualmente sin ella cerca de mi día a día. Me apasiona y mi tiempo libre lo dedico en parte a ella, de ahí que mi trabajo sea una rutina felíz y diaría donde no me cuesta despertar para ir a afrontar los retos del día a día. ¿Qué reto hay que afrontar? ¡Aquí me tienes!",
+    "about.p3":"En mi vida personal me gusta disfrutar de mi familia y del deporte. El que practico habitualmente es el fútbol sala, sobre todo me apasiona la parte táctica y analítica de dicho juego. Espacios cortos y mucho movimiento lo que permite analizar y realizar estadísticas diarias para mejorar y exprimir al máximo las capacidades de los compañeros y tuyas mismas. A nivel familiar me gusta simplemente disfrutar y absorver su compañía, por lo que siempre estoy junto a ellos y no podría pasar un día sin su compañía.",
+    "about.p4":"Por último me gustaría destacar mi afición por conocer nuevos lugares y viajar a culturas totalmente contrarias a la que tengo en mi día a día. He realizado viajes a diversas ciudades como Londres, Nueva York, Orlando, Egipto, Praga, Budapest, Amsterdam... y en cada uno de ellos he conseguido aprender y evolucionar como persona y ser humano captando cada esencia de la cultura visitada.  "
+
 }

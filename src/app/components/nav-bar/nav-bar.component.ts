@@ -25,4 +25,5 @@ export class NavBarComponent implements OnInit {
     this.translate.use(lang);
   }
 
+
 }
