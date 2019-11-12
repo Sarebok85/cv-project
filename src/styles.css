@@ -1,7 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 body {
     background-color:#50514F;
+
   }
+
+  ::-webkit-scrollbar {
+    display: none;
+}
 
   .footer {
 
@@ -56,3 +61,7 @@ h3 {
   }
 
   a, a:hover, a:active, a:visited { color: white; cursor: pointer; }
+
+  .size-img-about{
+    height: 150px;
+  }
