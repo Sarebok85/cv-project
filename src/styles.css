@@ -1,7 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
 body {
-    background-color:#50514F;
+   /* background-color:#50514F;*/
+/* The image used */
+background-image: url("./assets/img/back.jpg");
+  
+/* Full height */
+height: 100%;
 
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
   }
 
   ::-webkit-scrollbar {
@@ -29,7 +38,8 @@ body {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-    background: rgb(89, 90, 87) ;
+    background: rgb(89, 90, 87);
+    opacity:90%;
     min-height: calc(100vh - 50px);
  
   }
@@ -65,4 +75,17 @@ h3 {
 
   .size-img-about{
     height: 150px;
+  }
+
+  .bg {
+    /* The image used */
+    background-image: url("/src/assets/img/back.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
