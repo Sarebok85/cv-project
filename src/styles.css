@@ -30,6 +30,7 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     background: rgb(89, 90, 87) ;
+    min-height: calc(100vh - 50px);
  
   }
 
