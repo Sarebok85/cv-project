@@ -1,6 +1,4 @@
-<div class="content">
-<form class="contact-form">
-
+<!-- <form class="contact-form border rounded contact-form">
         <div class="form-row align-items-center">
             <div class="col-md-8 center-form">
                 <label class="sr-only" for="inlineFormInputGroup">Email</label>
@@ -8,7 +6,7 @@
                         <div class="input-group-prepend">
                             <div class="input-group-text"><fa [name]="'envelope'"></fa></div>
                             </div>
-                        <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="{{'mail' | translate}}">
+                        <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="{{'mail' | translate}}" required>
                     </div>
             </div>
         </div>
@@ -20,7 +18,7 @@
               <div class="input-group-prepend">
                 <div class="input-group-text"><fa [name]="'quote-right'"></fa></div>
               </div>
-              <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="{{'subject' | translate}}">
+              <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="{{'subject' | translate}}" required>
             </div>
           </div>
         </div>
@@ -42,5 +40,19 @@
           </div>
         </div>
 
-      </form>
+      </form> -->
+<div class="row">
+  <div class="col-md-12">
+  <div class="card center-form mt-4" style="width:25rem;">
+      <img class="card-img-top" src="../../../assets/img/user.jpg" alt="Card image cap">
+      <div class="card-body">
+        <p class="card-text">
+                <fa [name]="'address-card'" [size]=1 class="m-2 align-middle"></fa>Álvaro Romero Ayala<br>
+                <fa [name]="'phone'" [size]=1 class="m-2 align-middle"></fa>+34-676871087<br>
+                <fa [name]="'envelope-open'" [size]=1 class="m-2 align-middle"></fa>sarebok@gmail.com <br>
+                <fa [name]="'building'" [size]=1 class="m-2 align-middle"></fa>Murcia - Spain                
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
